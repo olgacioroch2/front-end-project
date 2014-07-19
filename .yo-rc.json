@@ -1,0 +1,13 @@
+{
+  "generator-xh": {
+    "config": {
+      "projectName": "front-end project",
+      "useBranding": false,
+      "cssPreprocessor": "SCSS",
+      "isWP": false,
+      "features": [
+        "useModernizr"
+      ]
+    }
+  }
+}

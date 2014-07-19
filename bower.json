@@ -1,0 +1,17 @@
+{
+  "name": "front-end-project",
+  "version": "0.0.1",
+  "ignore": [
+    "**/.*",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "modernizr": "~2.8.2",
+    "normalize.css": "~3.0.1",
+    "jquery": "~1.11.1"
+  },
+  "devDependencies": {
+    "jquery-colorbox": "~1.5.10"
+  }
+}
